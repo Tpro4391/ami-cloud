@@ -1,0 +1,15 @@
+<svg width="320" height="320.00001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_2_blur)" font-weight="bold" stroke="#000" transform="matrix(6.879692586804041,0,0,7.852122173647,-306.53815985253766,-598.2868858729179) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="104.908106" x="45.738831" stroke-width="0" fill="#ffffff">AMI</text>
+ </g>
+</svg>
